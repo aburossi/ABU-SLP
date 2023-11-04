@@ -1,0 +1,2 @@
+```dataview
+list from [[TestNote]]
